@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Daikiry</h1>
-<p align="center">💻 Full-Stack Developer | React • Node.js • Firebase | Focused on clean UI and impactful real-world apps</p>
+<p align="center"> Full-Stack Developer | React • Node.js • Firebase | Focused on clean UI and impactful real-world apps</p>
 
 ---
 
