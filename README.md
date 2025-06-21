@@ -5,7 +5,7 @@
 
 ![Daikiry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daikiry&show_icons=true&theme=radical&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daikiry&layout=compact&theme=radical)
-![GitHub Snake animation](https://github.com/Daikiry/Daikiry/blob/output/github-contribution-grid-snake.svg)
+[![GitHub Snake animation](https://github.com/Daikiry/Daikiry/blob/output/github-contribution-grid-snake.svg)](https://github.com/eDaikiry/Daikiry/actions/workflows/snake.yml)
 
 
 ---
