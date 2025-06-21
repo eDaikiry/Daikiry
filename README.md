@@ -7,6 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daikiry&layout=compact&theme=radical)
 ![GitHub Snake animation](https://github.com/Daikiry/Daikiry/blob/output/github-contribution-grid-snake.svg)
 
+
 ---
 
 Featured Projects
