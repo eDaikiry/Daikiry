@@ -1,77 +1,78 @@
-<h1 align="center">Hey I'm Daikiry</h1>
-<p align="center"> Full-Stack Developer | React • Node.js • Firebase | Focused on clean UI and impactful real-world apps</p>
+<h1 align="center">Hey 👋 I'm Daikiry</h1>
+<p align="center">💻 Full-Stack Developer | React • Node.js • Firebase | Focused on clean UI and impactful real-world apps</p>
+
+---
 
 ## 📊 My GitHub Stats
 
 ![Daikiry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daikiry&show_icons=true&theme=radical&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daikiry&layout=compact&theme=radical)
-[![GitHub Snake animation](https://github.com/Daikiry/Daikiry/blob/output/github-contribution-grid-snake.svg)](https://github.com/eDaikiry/Daikiry/actions/workflows/snake.yml)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daikiry&layout=compact&theme=radical)
 
 ---
 
-Featured Projects
+## 🐍 GitHub Activity Snake
 
-**EcoTrack** – A sustainability habit tracker with progress charts and goal setting (React + Firebase)
-**StockVision** – A stock market analysis and prediction dashboard (React + Chart.js)
+![GitHub Snake animation](https://github.com/Daikiry/Daikiry/blob/output/github-contribution-grid-snake.svg)
 
-------------------------------------------------------------------------------------------------------------
+---
 
-Tech Stack
+## 🚀 Featured Projects
+
+- 🌱 **EcoTrack** – A sustainability habit tracker with progress charts and goal setting (React + Firebase)
+- 📊 **StockVision** – A stock market analysis and prediction dashboard (React + Chart.js)
+
+---
+
+## 🛠 Tech Stack
 
 - **Frontend:** React, Next.js, Tailwind CSS  
 - **Backend:** Node.js, Express, Firebase  
 - **Database:** MongoDB, Firestore  
 - **Tools:** Git, GitHub, Figma, Vercel  
 
-------------------------------------------------------------------------------------------------------------
+---
 
-Contact
+## 📬 Contact
 
-- 📧 Email: eduardodaikiry@gmail.com
-- 💼 Upwork: [None]  
+- 📧 Email: eduardodaikiry@gmail.com  
+- 💼 Upwork: [None yet]  
 
-------------------------------------------------------------------------------------------------------------
+🧠 Always learning and improving. Open to freelance jobs, collaborations and challenges!
 
- Always learning and improving. Open to freelance jobs, collaborations and challenges!
-
-------------------------------------------------------------------------------------------------------------
+---
 
 <br>
 
 <h2 align="center">🇧🇷 Versão em Português</h2>
 
-------------------------------------------------------------------------------------------------------------
+---
 
-### Olá! Eu sou o Daikiry
+### 👋 Olá! Eu sou o Daikiry
 
-Desenvolvedor Full-Stack com foco em criar projetos úteis, com código limpo, design moderno e propósito real.
+💻 Desenvolvedor Full-Stack com foco em criar projetos úteis, com código limpo, design moderno e propósito real.
 
-------------------------------------------------------------------------------------------------------------
+---
 
-###  Projetos em Destaque
+## 🚀 Projetos em Destaque
 
- **EcoTrack** – Rastreador de hábitos sustentáveis com gráficos de progresso e metas personalizadas (React + Firebase)  
- **StockVision** – Painel para análise e previsão de ações da bolsa (React + Chart.js)
+- 🌱 **EcoTrack** – Rastreador de hábitos sustentáveis com gráficos de progresso e metas personalizadas (React + Firebase)  
+- 📊 **StockVision** – Painel para análise e previsão de ações da bolsa (React + Chart.js)
 
-------------------------------------------------------------------------------------------------------------
+---
 
-Tecnologias que uso
+## 🛠 Tecnologias que uso
 
 - **Frontend:** React, Next.js, Tailwind CSS  
 - **Backend:** Node.js, Express, Firebase  
 - **Banco de Dados:** MongoDB, Firestore  
 - **Ferramentas:** Git, GitHub, Figma, Vercel  
 
-------------------------------------------------------------------------------------------------------------
+---
 
- Contato
+## 📬 Contato
 
-- 📧 Email: eduardodaikiry@gmail.com 
+- 📧 Email: eduardodaikiry@gmail.com  
 - 💼 Upwork: [Ainda Não Criado]
 
-------------------------------------------------------------------------------------------------------------
-
-Aberto a freelas, parcerias e novos desafios.
-
-
+🚀 Aberto a freelas, parcerias e novos desafios!
